@@ -20,8 +20,9 @@
 * [14 Leadership Principles - Amazon](https://www.amazon.jobs/en/principles) 
 
 ### Books
-* [The Manager's Path](https://www.amazon.de/-/en/Camille-Fournier/dp/1491973897)
-* 
+* [The Manager's Path](https://www.amazon.de/-/en/Camille-Fournier/dp/1491973897) [Published in 2017]
+* [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) [Published in 2013]
+* [The Unicorn Project](https://itrevolution.com/the-unicorn-project/) [Published in 2019]
 
 ![Podcasts](./Resources/Images/podcasts.png)
 -----
@@ -35,22 +36,21 @@
 * [Der Agile Wasserfall](https://podcasts.apple.com/us/podcast/der-agile-wasserfall/id1541113934) - Softwareentwicklung und alles zum Thema Agile [Years: 2020 - now, Status: active]
 * [The Dark Leadership Podcast](https://schulenburg-consulting.de/dark-leadership) - eine Sammlung von Handlungsempfehlungen zur Abwehr von Dark Leadership [Years: 2021 - now, Status: active]
 
+
 ![Youtube-Channels](./Resources/Images/youtube_channels.png)
 -----
 * [LeadDev](https://www.youtube.com/c/LeadDev) - online community that develops thought-leading content [Youtube, 35k Subscribers]
+* [Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g) - Continuous Delivery Pipelines and Processes [Youtube, 57k Subscribers]
+
 
 ![Learning Resources](./Resources/Images/learning_resources.png)
 -----
 ### Technical Writing
 * [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
 
+
 ![Other](./Resources/Images/other_topics.png)
 -----
-### Giving Feedback
-#### Situation-Behavior-Impact Framework
-* [Use Situation-Behavior-Impact (SBI)™ to Understand Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) [Blog, November 2021]
-* [The Situation-Behavior-Impact™ Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) [Blog, June 2021]
-
 ### One-on-Ones
 * [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - list of 1-on-1 questions compiled from a variety to sources [GitHub, 8500 stars]
 
@@ -75,6 +75,17 @@
 #### Retro Tools
 * [EastRetro](https://easyretro.io/)
 * [Parabol](https://www.parabol.co/)
+
+### Giving Feedback
+#### Skill Matrix
+* [Skill Mapping: A Digital Template for Remote Teams](https://www.nngroup.com/articles/skill-mapping/) [Blog, October 2020]
+
+#### Situation-Behavior-Impact Framework
+* [Use Situation-Behavior-Impact (SBI)™ to Understand Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) [Blog, November 2021]
+* [The Situation-Behavior-Impact™ Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) [Blog, June 2021]
+
+#### Tracking Performance and Impact
+* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
 
 ### Other Resources Compilations
 * [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
