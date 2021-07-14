@@ -2,6 +2,7 @@
 
 ![Essential-Reading](./Resources/Images/reading_section.png)
 -----
+### Blogs
 * [What is an Engineering Manager?](https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/) by Michelle Kung from Amazon [Blog, October 2018]
     <details><summary>Main Highlights</summary>
     <p>
@@ -17,6 +18,10 @@
 
 * [What is Engineering Manager doing in a product IT company - Grammarly case](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https%3A%2F%2Fain-ua.cdn.ampproject.org%2Fc%2Fs%2Fain.ua%2F2021%2F01%2F15%2Fengineering-manager-u-produktovij-it-kompani%2Famp%2F) Grammarly, [Original Ukrainian Post](https://ain-ua.cdn.ampproject.org/c/s/ain.ua/2021/01/15/engineering-manager-u-produktovij-it-kompani/amp/) [Blog, January 2021]
 * [14 Leadership Principles - Amazon](https://www.amazon.jobs/en/principles) 
+
+### Books
+* [The Manager's Path](https://www.amazon.de/-/en/Camille-Fournier/dp/1491973897)
+* 
 
 ![Podcasts](./Resources/Images/podcasts.png)
 -----
@@ -41,8 +46,39 @@
 
 ![Other](./Resources/Images/other_topics.png)
 -----
+### Giving Feedback
+#### Situation-Behavior-Impact Framework
+* [Use Situation-Behavior-Impact (SBI)™ to Understand Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) [Blog, November 2021]
+* [The Situation-Behavior-Impact™ Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) [Blog, June 2021]
+
+### One-on-Ones
+* [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - list of 1-on-1 questions compiled from a variety to sources [GitHub, 8500 stars]
+
 ### Remote Work
 * [5 Behavioral Biases That Trip Up Remote Managers](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/06/5-behavioral-biases-that-trip-up-remote-managers) by Harvard Business Review [Blog, June 2021]
+
+### OKRs
+#### Reading Resources
+* [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
+
+#### OKR tools
+* [Koan](https://www.koan.co/)
+* [Workpath](https://www.workpath.com/)
+
+### Retrospectives
+#### Reading Material
+* [The guide to retrospectives – remote or in person](https://miro.com/guides/retrospectives/remote)
+
+#### Retro Ideas
+* [FunRetrospectives](https://www.funretrospectives.com/) - activities and ideas for making agile retrospectives more engaging
+
+#### Retro Tools
+* [EastRetro](https://easyretro.io/)
+* [Parabol](https://www.parabol.co/)
+
+### Other Resources Compilations
+* [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
+* [engineer-manager](https://github.com/ryanburgess/engineer-manager) - list of engineering manager resource links [GitHub, 6300 stars]
 
 -----
 
