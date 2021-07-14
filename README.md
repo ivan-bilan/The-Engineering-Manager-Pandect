@@ -53,11 +53,8 @@
 * [Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g) - Continuous Delivery Pipelines and Processes [Youtube, 57k Subscribers]
 
 
-![Learning Resources](./Resources/Images/learning_resources.png)
------
-### Technical Writing
-* [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
-
+# ![Learning Resources](./Resources/Images/learning_resources.png)
+# -----
 
 ![Other](./Resources/Images/other_topics.png)
 -----
@@ -96,6 +93,9 @@
 
 #### Tracking Performance and Impact
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
+
+### Technical Writing
+* [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
 
 ### Other Resources Compilations
 * [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
