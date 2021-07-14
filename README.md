@@ -54,13 +54,35 @@
 * [Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g) - Continuous Delivery Pipelines and Processes [Youtube, 57k Subscribers]
 
 
-![Other](./Resources/Images/other_topics.png)
+![Giving and Receiving Feedback](./Resources/Images/feedback.png)
 -----
 ### One-on-Ones
 * [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - list of 1-on-1 questions compiled from a variety to sources [GitHub, 8500 stars]
 
-### Remote Work
-* [5 Behavioral Biases That Trip Up Remote Managers](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/06/5-behavioral-biases-that-trip-up-remote-managers) by Harvard Business Review [Blog, June 2021]
+### Skill Matrix
+* [Skill Mapping: A Digital Template for Remote Teams](https://www.nngroup.com/articles/skill-mapping/) [Blog, October 2020]
+
+### Situation-Behavior-Impact Framework
+* [Use Situation-Behavior-Impact (SBI)™ to Understand Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) [Blog, November 2021]
+* [The Situation-Behavior-Impact™ Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) [Blog, June 2021]
+
+### Tracking Performance and Impact
+* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
+
+### Retrospectives
+#### Reading Material
+* [The guide to retrospectives – remote or in person](https://miro.com/guides/retrospectives/remote)
+
+#### Retro Ideas
+* [FunRetrospectives](https://www.funretrospectives.com/) - activities and ideas for making agile retrospectives more engaging
+
+#### Retro Tools
+* [EastRetro](https://easyretro.io/)
+* [Parabol](https://www.parabol.co/)
+
+
+![Other](./Resources/Images/other_topics.png)
+-----
 
 ### OKRs
 #### Reading Resources
@@ -74,32 +96,13 @@
 #### OKR Resource Compilations
 * [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) [GitHub, 1125 stars]
 
-### Retrospectives
-#### Reading Material
-* [The guide to retrospectives – remote or in person](https://miro.com/guides/retrospectives/remote)
-
-#### Retro Ideas
-* [FunRetrospectives](https://www.funretrospectives.com/) - activities and ideas for making agile retrospectives more engaging
-
-#### Retro Tools
-* [EastRetro](https://easyretro.io/)
-* [Parabol](https://www.parabol.co/)
-
-### Giving Feedback
-#### Skill Matrix
-* [Skill Mapping: A Digital Template for Remote Teams](https://www.nngroup.com/articles/skill-mapping/) [Blog, October 2020]
-
-#### Situation-Behavior-Impact Framework
-* [Use Situation-Behavior-Impact (SBI)™ to Understand Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) [Blog, November 2021]
-* [The Situation-Behavior-Impact™ Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) [Blog, June 2021]
-
-#### Tracking Performance and Impact
-* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
-
 ### Technical Writing
 * [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
 
-### Other Resources Compilations
+### Remote Work
+* [5 Behavioral Biases That Trip Up Remote Managers](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/06/5-behavioral-biases-that-trip-up-remote-managers) by Harvard Business Review [Blog, June 2021]
+
+### Other Resource Compilations
 * [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
 * [engineer-manager](https://github.com/ryanburgess/engineer-manager) - list of engineering manager resource links [GitHub, 6300 stars]
 
