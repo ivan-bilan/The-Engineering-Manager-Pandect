@@ -27,7 +27,8 @@
     </p>
     </details>
     
-* [14 Leadership Principles - Amazon](https://www.amazon.jobs/en/principles) 
+* [14 Leadership Principles - Amazon](https://www.amazon.jobs/en/principles)
+* [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) [Blog, Novemeber 2019]
 
 ### Books
 * [The Manager's Path](https://www.amazon.de/-/en/Camille-Fournier/dp/1491973897) [Published in 2017]
@@ -53,9 +54,6 @@
 * [Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g) - Continuous Delivery Pipelines and Processes [Youtube, 57k Subscribers]
 
 
-# ![Learning Resources](./Resources/Images/learning_resources.png)
-# -----
-
 ![Other](./Resources/Images/other_topics.png)
 -----
 ### One-on-Ones
@@ -67,10 +65,14 @@
 ### OKRs
 #### Reading Resources
 * [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
+* [OKRs from a development team’s perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) [Blog, May 2019]
 
 #### OKR tools
 * [Koan](https://www.koan.co/)
 * [Workpath](https://www.workpath.com/)
+
+#### OKR Resource Compilations
+* [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) [GitHub, 1125 stars]
 
 ### Retrospectives
 #### Reading Material
