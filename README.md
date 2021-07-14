@@ -6,17 +6,27 @@
 * [What is an Engineering Manager?](https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/) by Michelle Kung from Amazon [Blog, October 2018]
     <details><summary>Main Highlights</summary>
     <p>
-    An EM’s primary concern and responsibility are to the individual. They are dealing with each member of the team on a personal level.
-    
-    The EM is the interface between strategy and delivery. They will be working with the leadership team and translating directives to their team as actionable tasks and deliverables. 
-    
-    They are able to course correct if necessary at an early enough stage that a minimal amount of change is required.
-    
-    There needs to be a culture of emotional safety where the team is empowered to act bravely, make decisions, and try new things without being controlled by a fear of failure.  
+        
+    - An EM’s primary concern and responsibility are to the individual. They are dealing with each member of the team on a personal level.
+    - The EM is the interface between strategy and delivery. They will be working with the leadership team and translating directives to their team as actionable tasks and deliverables. 
+    - They are able to course correct if necessary at an early enough stage that a minimal amount of change is required.
+    - There needs to be a culture of emotional safety where the team is empowered to act bravely, make decisions, and try new things without being controlled by a fear of failure.  
     </p>
     </details>
 
 * [What is Engineering Manager doing in a product IT company - Grammarly case](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https%3A%2F%2Fain-ua.cdn.ampproject.org%2Fc%2Fs%2Fain.ua%2F2021%2F01%2F15%2Fengineering-manager-u-produktovij-it-kompani%2Famp%2F) Grammarly, [Original Ukrainian Post](https://ain-ua.cdn.ampproject.org/c/s/ain.ua/2021/01/15/engineering-manager-u-produktovij-it-kompani/amp/) [Blog, January 2021]
+    <details><summary>Main Highlights</summary>
+    <p>
+        
+    - The main goal of the Engineering Manager is to make his team successful and achieve the set goals as effectively as possible.
+    - As a manager, I have to communicate the overall product vision and common goals of the company to my team.
+    - The engineering manager also maintains a technical roadmap - a plan of technical means and methods needed to build a product.
+    - To maintain the overall health of the team and balance the workload, it is important to properly plan the team structure and scale according to the company's goals.
+    - The engineering manager must be a reliable partner not only for his team, but also for other teams and managers. It is very important to establish processes for collaboration with other colleagues, to choose tools and channels that will be convenient and effective for all participants when working on joint projects. 
+       
+    </p>
+    </details>
+    
 * [14 Leadership Principles - Amazon](https://www.amazon.jobs/en/principles) 
 
 ### Books
