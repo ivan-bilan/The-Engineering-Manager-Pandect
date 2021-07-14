@@ -120,6 +120,7 @@
 * [Ancient Greek Theater](https://thenounproject.com/search/?q=greek+theater&i=38701) by Leonidas Oikonomou from the [Noun Project](https://thenounproject.com)
 * [deity](https://thenounproject.com/term/deity/3156641/) by Eucalyp from the [Noun Project](https://thenounproject.com)
 * [papyrus](https://thenounproject.com/iconmark/collection/greek-mythology/?i=3515982) by IconMark from the [Noun Project](https://thenounproject.com)
+* [Laurel Wreath](https://thenounproject.com/term/laurel-wreath/275972/) by Christopher T. Howlett from the [Noun Project](https://thenounproject.com)
 
 #### Fonts
 * [Dalek Font](https://www.dafont.com/dalek.font) 
