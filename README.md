@@ -75,6 +75,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Authority Issues](https://authorityissu.es) - podcast about leadership and engineering management [Years: 2019 - now, Status: active]
 
 ### Leadership Podcasts
+* [Radical Candor](https://www.radicalcandor.com/candor-podcast/) - show about how to kick ass at work without losing your humanity [Years: 2017 - now, Status: active]
 * [Masters of Scale](https://mastersofscale.com) - podcast hosted by Reid Hoffman, co-founder of LinkedIn [Years: 2017 - now, Status: active]
 * [WorkLife](https://www.adamgrant.net/podcast/) - podcast about work by Adam Grant [Years: 2018 - now, Status: active]
 
