@@ -28,22 +28,58 @@
     </details>
     
 * [14 Leadership Principles - Amazon](https://www.amazon.jobs/en/principles)
+    <details><summary>Main Highlights</summary>
+    <p>
+    
+    14 Principals:
+    - Customer Obsession
+    - Ownership
+    - Invent and Simplify
+    - Strong judgment and good instincts
+    - Learn and Be Curious
+    - Hire and Develop the Best
+    - Insist on the Highest Standards
+    - Think Big
+    - Bias for Action
+    - Frugality
+    - Earn Trust
+    - Dive Deep
+    - Have Backbone; Disagree and Commit
+    - Deliver Results
+    - Strive to be Earth's Best Employer
+    - Success and Scale Bring Broad Responsibility
+    </p>
+    </details>
+    
 * [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) [Blog, Novemeber 2019]
-
+* [You Can Be a Great Leader and Also Have a Life](https://hbr.org/2018/12/you-can-be-a-great-leader-and-also-have-a-life?utm_medium=social&utm_campaign=hbr&utm_source=linkedin&tpcc=orgsocial_edit) [Blog, December 2018]
+    
 ### Books
 * [The Manager's Path](https://www.amazon.de/-/en/Camille-Fournier/dp/1491973897) [Published in 2017]
 * [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) [Published in 2013]
 * [The Unicorn Project](https://itrevolution.com/the-unicorn-project/) [Published in 2019]
+* [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/) [Published in 2016]
+
+Find more Engineering Management books at [The Leadership Library for Engineers](https://leadership-library.dev/Engineering-Management-Books-c151ee522eba4bf8a092b11001b25767).
+
+### Presentations
+* [What Engineering Managers Should Do (and Why We Don’t)](https://www.youtube.com/watch?v=Q_bJVokYLRI) - [GOTO Conference, January 2020]
+* [How to Become a Kickass Team Lead 101](https://www.youtube.com/watch?v=rentFl6mO5U) - [PyConX Conference, June 2019]
+* [Challenges of a New Engineering Manager](https://www.youtube.com/watch?v=BJBtLwCkMuY) - [code.tasks Conference, October 2017]
 
 ![Podcasts](./Resources/Images/podcasts.png)
 -----
-### English
+### Engineering Management
 * [Effective Engineering Manager](https://podcasts.apple.com/us/podcast/effective-engineering-manager/id1535585856) - proven solutions and best practices to software engineering managers [Years: 2021 - now, Status: active]
 * [Level-up Engineering Podcast](https://codingsans.com/engineering-management-podcast) - key insights from fellow engineering managers and tech leaders [Years: 2020 - now, Status: active]
 * [Authority Issues](https://authorityissu.es) - podcast about leadership and engineering management [Years: 2019 - now, Status: active]
+
+### Leadership Podcasts
 * [Masters of Scale](https://mastersofscale.com) - podcast hosted by Reid Hoffman, co-founder of LinkedIn [Years: 2017 - now, Status: active]
 * [WorkLife](https://www.adamgrant.net/podcast/) - podcast about work by Adam Grant [Years: 2018 - now, Status: active]
-### German
+
+### Non-English Podcasts
+#### German
 * [Der Agile Wasserfall](https://podcasts.apple.com/us/podcast/der-agile-wasserfall/id1541113934) - Softwareentwicklung und alles zum Thema Agile [Years: 2020 - now, Status: active]
 * [The Dark Leadership Podcast](https://schulenburg-consulting.de/dark-leadership) - eine Sammlung von Handlungsempfehlungen zur Abwehr von Dark Leadership [Years: 2021 - now, Status: active]
 
@@ -85,6 +121,9 @@
 -----
 
 ### OKRs
+#### General
+* [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) [GitHub, 1125 stars]
+
 #### Reading Resources
 * [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
 * [OKRs from a development team’s perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) [Blog, May 2019]
@@ -93,13 +132,18 @@
 * [Koan](https://www.koan.co/)
 * [Workpath](https://www.workpath.com/)
 
-#### OKR Resource Compilations
-* [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) [GitHub, 1125 stars]
 
 ### Technical Writing
 * [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
 
 ### Remote Work
+#### General
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - curated list of awesome remote jobs and resources. Inspired by [GitHub, 20700 stars]
+
+#### Reading Resources
+* [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - all-remote tips and tricks for remote teams
+* [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) [Blog, Novemeber 2019]
+* [Managing Remote Teams - A Crash Course](https://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) [Blog, December 2018]
 * [5 Behavioral Biases That Trip Up Remote Managers](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/06/5-behavioral-biases-that-trip-up-remote-managers) by Harvard Business Review [Blog, June 2021]
 
 ### Other Resource Compilations
