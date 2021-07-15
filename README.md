@@ -176,7 +176,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 -----
 
-<h3 style="font-size:20px;text-align:center;">The Pandect Series also includes:</h3>
+<h3 align="center">The Pandect Series also includes</h3>
 
 <p align="middle">
 <a href="https://github.com/ivan-bilan/The-Engineering-Manager-Pandect">
