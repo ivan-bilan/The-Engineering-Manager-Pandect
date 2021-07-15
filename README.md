@@ -1,6 +1,8 @@
 ![The-Engineering-Manager-Pandect](./Resources/Images/pandect.png)
 
+<p align="center">
 This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created to help you find almost anything related to Engineering Management.
+</p>
 
 ![Essential-Reading](./Resources/Images/reading_section.png)
 -----
@@ -171,3 +173,17 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 #### Fonts
 * [Dalek Font](https://www.dafont.com/dalek.font) 
+
+-----
+
+<h3 style="font-size:20px;text-align:center;">The Pandect Series also includes:</h3>
+
+<p align="middle">
+<a href="https://github.com/ivan-bilan/The-Engineering-Manager-Pandect">
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/pandect.png" width="370" />
+</a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/ivan-bilan/The-NLP-Pandect">
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/nlp_pandect.png" width="370" />
+</a>
+</p>
