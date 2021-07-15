@@ -179,11 +179,11 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 <h3 align="center">The Pandect Series also includes</h3>
 
 <p align="middle">
-<a href="https://github.com/ivan-bilan/The-Engineering-Manager-Pandect">
-  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/pandect.png" width="370" />
+<a href="https://github.com/ivan-bilan/The-Microservices-Pandect">
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Microservices-Pandect/main/Resources/Images/pandect.png" width="325" />
 </a>
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/ivan-bilan/The-NLP-Pandect">
-  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/nlp_pandect.png" width="370" />
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/nlp_pandect.png" width="380" />
 </a>
 </p>
