@@ -138,6 +138,9 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Koan](https://www.koan.co/)
 * [Workpath](https://www.workpath.com/)
 
+### Becoming a Manager
+* [Review Google’s new manager training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
+* [17 Reasons Not to be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/comment-page-1/) [Blog, September 2019]
 
 ### Technical Writing
 * [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
