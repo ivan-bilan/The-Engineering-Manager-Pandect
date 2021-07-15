@@ -1,7 +1,7 @@
 ![The-Engineering-Manager-Pandect](./Resources/Images/pandect.png)
 
 <p align="center">
-This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created to help you find almost anything related to Engineering Management.
+This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created to help you find almost any resources related to Engineering Management and everything related to it.
 </p>
 
 ![Essential-Reading](./Resources/Images/reading_section.png)
