@@ -180,10 +180,10 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 <p align="middle">
 <a href="https://github.com/ivan-bilan/The-Microservices-Pandect">
-  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Microservices-Pandect/main/Resources/Images/pandect.png" width="325" />
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/microservices_pandect_promo.png" width="390" />
 </a>
   &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/ivan-bilan/The-NLP-Pandect">
-  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/nlp_pandect.png" width="380" />
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/nlp_pandect_promo.png" width="380" />
 </a>
 </p>
