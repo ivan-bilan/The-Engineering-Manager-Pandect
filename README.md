@@ -141,6 +141,9 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 ### Technical Writing
 * [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
 
+### Incident Management
+* [Wheel of Misfortune](https://github.com/dastergon/wheel-of-misfortune) - a game that aims to build confidence in on-call engineers via simulated outage scenarios [GitHub, 67 stars]
+
 ### Remote Work
 #### General
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - curated list of awesome remote jobs and resources. Inspired by [GitHub, 20700 stars]
@@ -150,6 +153,13 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) [Blog, Novemeber 2019]
 * [Managing Remote Teams - A Crash Course](https://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) [Blog, December 2018]
 * [5 Behavioral Biases That Trip Up Remote Managers](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/06/5-behavioral-biases-that-trip-up-remote-managers) by Harvard Business Review [Blog, June 2021]
+
+### Buzzwords Explained
+* [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos) by Google [Blog, July 2018]
+* [BDD](https://www.agilealliance.org/glossary/bdd/) - Behavior Driven Development (BDD)
+* [TDD](https://deviq.com/practices/test-driven-development) - Test Driven Development
+
+Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/agile-glossary/).
 
 ### Other Resource Compilations
 * [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
