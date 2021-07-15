@@ -1,4 +1,5 @@
 ![The-Engineering-Manager-Pandect](./Resources/Images/pandect.png)
+
 This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created to help you find almost anything related to Engineering Management.
 
 ![Essential-Reading](./Resources/Images/reading_section.png)
