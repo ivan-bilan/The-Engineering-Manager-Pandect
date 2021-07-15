@@ -67,6 +67,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 Find more Engineering Management books at [The Leadership Library for Engineers](https://leadership-library.dev/Engineering-Management-Books-c151ee522eba4bf8a092b11001b25767).
 
 ### Presentations
+* [A Guide To Managing Technical Teams](https://www.youtube.com/watch?v=jMpCF0Z623s) [Continuous Delivery YouTube Channel, June 2021]
 * [What Engineering Managers Should Do (and Why We Don’t)](https://www.youtube.com/watch?v=Q_bJVokYLRI) - [GOTO Conference, January 2020]
 * [How to Become a Kickass Team Lead 101](https://www.youtube.com/watch?v=rentFl6mO5U) - [PyConX Conference, June 2019]
 * [Challenges of a New Engineering Manager](https://www.youtube.com/watch?v=BJBtLwCkMuY) - [code.tasks Conference, October 2017]
@@ -160,6 +161,9 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [TDD](https://deviq.com/practices/test-driven-development) - Test Driven Development
 
 Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/agile-glossary/).
+
+### Software Architecture
+* [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) - comprehensive list of books on Software Architecture [GitHub, 4600 stars]
 
 ### Other Resource Compilations
 * [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
