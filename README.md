@@ -122,10 +122,8 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [EastRetro](https://easyretro.io/)
 * [Parabol](https://www.parabol.co/)
 
-
-![Other](./Resources/Images/other_topics.png)
+![Measuring Success](./Resources/Images/measuring.png)
 -----
-
 ### OKRs
 #### General
 * [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) [GitHub, 1125 stars]
@@ -137,6 +135,10 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 #### OKR tools
 * [Koan](https://www.koan.co/)
 * [Workpath](https://www.workpath.com/)
+
+
+![Other](./Resources/Images/other_topics.png)
+-----
 
 ### Becoming a Manager
 * [Review Google’s new manager training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
@@ -160,8 +162,8 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 ### Buzzwords Explained
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos) by Google [Blog, July 2018]
-* [BDD](https://www.agilealliance.org/glossary/bdd/) - Behavior Driven Development (BDD)
-* [TDD](https://deviq.com/practices/test-driven-development) - Test Driven Development
+* [BDD](https://www.agilealliance.org/glossary/bdd/) - Behavior Driven Development explained by Agile Glossary
+* [TDD](https://deviq.com/practices/test-driven-development) - Test Driven Development by Agile Glossary
 
 Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/agile-glossary/).
 
@@ -187,6 +189,7 @@ Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/ag
 * [deity](https://thenounproject.com/term/deity/3156641/) by Eucalyp from the [Noun Project](https://thenounproject.com)
 * [papyrus](https://thenounproject.com/iconmark/collection/greek-mythology/?i=3515982) by IconMark from the [Noun Project](https://thenounproject.com)
 * [Laurel Wreath](https://thenounproject.com/term/laurel-wreath/275972/) by Christopher T. Howlett from the [Noun Project](https://thenounproject.com)
+* [scales](https://thenounproject.com/search/?q=scale&i=1489322) by Dmitry Mirolyubov from the [Noun Project](https://thenounproject.com)
 
 #### Fonts
 * [Dalek Font](https://www.dafont.com/dalek.font) 
