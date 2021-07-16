@@ -109,8 +109,8 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Skill Mapping: A Digital Template for Remote Teams](https://www.nngroup.com/articles/skill-mapping/) [Blog, October 2020]
 
 ### Situation-Behavior-Impact Framework
-* [Use Situation-Behavior-Impact (SBI)™ to Understand Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) [Blog, November 2021]
-* [The Situation-Behavior-Impact™ Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) [Blog, June 2021]
+* [The Situation-Behavior-Impact™ Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) [Blog, December 2020]
+* [Use Situation-Behavior-Impact (SBI)™ to Understand Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) [Blog, November 2020]
 
 ### Tracking Performance and Impact
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
