@@ -70,6 +70,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [A Guide To Managing Technical Teams](https://www.youtube.com/watch?v=jMpCF0Z623s) [Continuous Delivery YouTube Channel, June 2021]
 * [What Engineering Managers Should Do (and Why We Don’t)](https://www.youtube.com/watch?v=Q_bJVokYLRI) - [GOTO Conference, January 2020]
 * [How to Become a Kickass Team Lead 101](https://www.youtube.com/watch?v=rentFl6mO5U) - [PyConX Conference, June 2019]
+* [Building and Motivating Engineering Teams - Camille Fournier,](https://www.youtube.com/watch?v=7R-Y2DwWOr0) - [The Linux Foundation, February 2017]
 * [Challenges of a New Engineering Manager](https://www.youtube.com/watch?v=BJBtLwCkMuY) - [code.tasks Conference, October 2017]
 
 ![Podcasts](./Resources/Images/podcasts.png)
@@ -99,7 +100,10 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 ![Giving and Receiving Feedback](./Resources/Images/feedback.png)
 -----
 ### One-on-Ones
+#### Topics to Talk About
 * [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - list of 1-on-1 questions compiled from a variety to sources [GitHub, 8500 stars]
+#### Other Activities
+* [16 Personalities Personality Test](https://www.16personalities.com/) - the results include sections on "Career Path" and "Working Habits". Use it as a way to start a discussion instead of believing the actual results.
 
 ### Skill Matrix
 * [Skill Mapping: A Digital Template for Remote Teams](https://www.nngroup.com/articles/skill-mapping/) [Blog, October 2020]
@@ -141,8 +145,17 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 -----
 
 ### Becoming a Manager
-* [Review Google’s new manager training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
+* [Google’s new manager training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
 * [17 Reasons Not to be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/comment-page-1/) [Blog, September 2019]
+* [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) [Blog, February 2021] 
+    <details><summary>Main Highlights</summary>
+    <p>
+    - Mistake 1: Thinking people give feedback the way they want to receive it.
+    - Mistake 2: Trying to do everything yourself as a manager is the best way to help.
+    - Mistake 3: Communicating something one time is enough. If you have a big enough group and there’s enough going on, things are going to slip through the cracks, so repetition becomes an important tool to make things stick.
+    - Mistake 4: You have to have everything together all the time. You’re the manager, so if someone is going to show vulnerability first, it’s easiest on team dynamics if it’s you.
+    </p>
+    </details>
 
 ### Technical Writing
 * [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
@@ -169,6 +182,25 @@ Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/ag
 
 ### Software Architecture
 * [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) - comprehensive list of books on Software Architecture [GitHub, 4600 stars]
+
+### Presenting
+#### General
+* [speaking.io](https://speaking.io/) - set of resources on preparing you for a great presentation
+* [We Are All Awesome](http://weareallaweso.me/) - resources to motivate and improve your technical presentation
+* [How to Cheat at Creating Great Presentations for Tech & Marketing Audiences](https://sparktoro.com/blog/how-to-cheat-creating-great-presentations-tech-marketing-audiences/) [Blog, June 2015]
+* [Do Your Slides At The Last Minute: 8 Steps To Writing Your Talk](https://emptysqua.re/blog/how-i-write-a-conference-talk/) [Blog, February 2016]
+
+#### Presentation Tools
+* [SliDev](https://github.com/slidevjs/slidev) - Presentation slides tool for developers ([Tutorial](https://www.youtube.com/watch?v=eW7v-2ZKZOU&t=1s)) [GitHub, 15000 stars] 
+
+#### Presentation Resources (Mostly Free)
+##### Icons
+* [The Noun Project](https://thenounproject.com/)
+
+##### Stock Photos
+* [USplash](https://unsplash.com/)
+* [Pexels](https://www.pexels.com/)
+
 
 ### Other Resource Compilations
 * [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
