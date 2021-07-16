@@ -150,9 +150,10 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) [Blog, February 2021] 
     <details><summary>Main Highlights</summary>
     <p>
+    
     - Mistake 1: Thinking people give feedback the way they want to receive it.
     - Mistake 2: Trying to do everything yourself as a manager is the best way to help.
-    - Mistake 3: Communicating something one time is enough. If you have a big enough group and there’s enough going on, things are going to slip through the cracks, so repetition becomes an important tool to make things stick.
+    - Mistake 3: Communicating something one time is enough. Repetition becomes an important tool to make things stick.
     - Mistake 4: You have to have everything together all the time. You’re the manager, so if someone is going to show vulnerability first, it’s easiest on team dynamics if it’s you.
     </p>
     </details>
