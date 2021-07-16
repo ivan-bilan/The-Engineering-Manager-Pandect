@@ -55,6 +55,16 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
     </p>
     </details>
     
+* [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) [Blog, February 2021] 
+    <details><summary>Main Highlights</summary>
+    <p>
+    
+    - Mistake 1: Thinking people give feedback the way they want to receive it.
+    - Mistake 2: Trying to do everything yourself as a manager is the best way to help.
+    - Mistake 3: Communicating something one time is enough. Repetition becomes an important tool to make things stick.
+    - Mistake 4: You have to have everything together all the time. You’re the manager, so if someone is going to show vulnerability first, it’s easiest on team dynamics if it’s you.
+    </p>
+    </details>
 * [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) [Blog, Novemeber 2019]
 * [You Can Be a Great Leader and Also Have a Life](https://hbr.org/2018/12/you-can-be-a-great-leader-and-also-have-a-life?utm_medium=social&utm_campaign=hbr&utm_source=linkedin&tpcc=orgsocial_edit) [Blog, December 2018]
     
@@ -123,7 +133,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [FunRetrospectives](https://www.funretrospectives.com/) - activities and ideas for making agile retrospectives more engaging
 
 #### Retro Tools
-* [EastRetro](https://easyretro.io/)
+* [EasyRetro](https://easyretro.io/)
 * [Parabol](https://www.parabol.co/)
 
 ![Measuring Success](./Resources/Images/measuring.png)
@@ -147,16 +157,6 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 ### Becoming a Manager
 * [Google’s new manager training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
 * [17 Reasons Not to be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/comment-page-1/) [Blog, September 2019]
-* [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) [Blog, February 2021] 
-    <details><summary>Main Highlights</summary>
-    <p>
-    
-    - Mistake 1: Thinking people give feedback the way they want to receive it.
-    - Mistake 2: Trying to do everything yourself as a manager is the best way to help.
-    - Mistake 3: Communicating something one time is enough. Repetition becomes an important tool to make things stick.
-    - Mistake 4: You have to have everything together all the time. You’re the manager, so if someone is going to show vulnerability first, it’s easiest on team dynamics if it’s you.
-    </p>
-    </details>
 
 ### Technical Writing
 * [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
@@ -202,6 +202,9 @@ Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/ag
 * [USplash](https://unsplash.com/)
 * [Pexels](https://www.pexels.com/)
 
+### Team Autonomy
+* [Ingenious Ways to Inspire Team Autonomy](https://www.ntaskmanager.com/blog/inspire-team-autonomy/) [Blog, July 2020]
+* [Autonomous Team](http://scrumbook.org/product-organization-pattern-language/development-team/autonomous-team.html) - Scrumbook.org
 
 ### Other Resource Compilations
 * [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
