@@ -146,6 +146,9 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 #### Reading Resources
 * [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
 * [OKRs from a development team’s perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) [Blog, May 2019]
+* [The OKR Cycle: 3 Steps for OKR Success](https://felipecastro.com/en/okr-cycle/)
+* [Continuously improve on using the OKR method](https://www.thoughtworks.com/insights/blog/objectives-and-key-results-continuously-improve-using-okr-method)
+* [Why Weekly Goal Reviews & Check-ins Are the Heartbeat of Great Teams](https://www.koan.co/blog/the-heartbeat-of-great-teams)
 
 #### OKR tools
 * [Koan](https://www.koan.co/)
