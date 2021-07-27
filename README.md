@@ -206,6 +206,9 @@ Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/ag
 * [USplash](https://unsplash.com/)
 * [Pexels](https://www.pexels.com/)
 
+### General Tooling
+* [Open Source Tool Alternatives](https://www.btw.so/open-source-alternatives)
+
 ### Team Autonomy
 * [Ingenious Ways to Inspire Team Autonomy](https://www.ntaskmanager.com/blog/inspire-team-autonomy/) [Blog, July 2020]
 * [Autonomous Team](http://scrumbook.org/product-organization-pattern-language/development-team/autonomous-team.html) - Scrumbook.org
