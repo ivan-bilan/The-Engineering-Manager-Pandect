@@ -169,6 +169,27 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Wheel of Misfortune](https://github.com/dastergon/wheel-of-misfortune) - a game that aims to build confidence in on-call engineers via simulated outage scenarios [GitHub, 67 stars]
 
 ### Remote Work
+Remote work, especially after the pandemic, is not easy to get right and can make or break a good team.
+
+You technically have 3 types of remote work levels:
+- **Remote-friendly**
+- **Remote-first**
+- **All-Remote**
+
+On the lowest level, you are remote-friendly. It means, that your company allows remote workers embedded into regular office teams. At this level, the meetings are online, but often tooling that is used in them is mainly concentrated in the physical meeting room. For example, engineering team meeting in which the ideas are still drawn on a physical whiteboard to which the remote participants get access afterwards in a form of a photo.
+
+Remote-first is an approach to leveling the playing field of both office and remote workers. All tools used are digital, when something is drawn, i.e. architectural design of a project, everyone does it in an online board. Regular watercooler chatter also takes place online, i.e. through a watercooler slack channel, or regular daily scheduler watercooler chat session. In this way, remote workers feel included in every single facet of work. One of the best ways to validate that you are indeed following the remote-first mindset is to regularly ask one of the office employees to join the meeting from a phone booth or a another room and to then get their feedback on what they felt was missing for them as a remote worker. Of course, you can also get this feedback from your remote workers, but those who regularly work from the office, will be able to better spot things they usually take for granted in the meetings they join from the office.
+
+All-remote is similar to the previous, in this case though, there is simply no more physical office and everyone works remote. This adds challenges to having really good tooling for all aspects of work. Best examples to learn about this are all-remote companies like GitLab.
+
+### Tips and Tricks for Better Remote Work
+#### Team Spirit
+One of the toughest challenges of working remotely is that the team often does not feel cohesive after a long period of working remotely. This is best solved through a combination of applying the right remote-first tools and techniques (see examples above), with a good balance of team building sessions. When it comes to team building, or just general watercooler chatter, it usually depends on the team. A good way to start is to try some of the following approaches:
+1. Have 3-4 sessions per week of around 15-20 minute length for regular watercooler chats. Attendance is optional for everyone. Topics can be freestyled, however, it's often good to setup a slack bot that does some topic suggestions for each session.
+2. Have 1-2 longer weekly sessions, i.e. 1 hour long. Ideally, such sessions are prepared on a rotation basis. You can simply rotate, for example, through playing some online team building games like [Codenames](https://codenames.game/), or [skribbl](https://skribbl.io/). Additionally, you can prepare more team-centric sessions. For example, you can prepare a quiz about the team on something like [Kahoot](https://kahoot.it/): find out some interesting facts about each team member and let people guess who the specific facts or descriptions belong to. It's a fun way to get to know your colleauges better.
+
+In addition to that, you can also have these sessions in an online room on [gather.town](https://www.gather.town/). It's a great proximity-based online meeting tool that allow you to control a physical 2D character in a gaming like fashion. It's especially great for bigger groups, as it's easy to have a quick chat within a small group very seamlessly.
+
 #### General
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - curated list of awesome remote jobs and resources. Inspired by [GitHub, 20700 stars]
 
@@ -177,6 +198,10 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) [Blog, Novemeber 2019]
 * [Managing Remote Teams - A Crash Course](https://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) [Blog, December 2018]
 * [5 Behavioral Biases That Trip Up Remote Managers](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/06/5-behavioral-biases-that-trip-up-remote-managers) by Harvard Business Review [Blog, June 2021]
+* [How to lead with clarity and empathy in the remote world](https://stackoverflow.blog/2020/11/05/how-to-lead-with-clarity-and-empathy-in-the-remote-world/) by StackOverflow [Blog, November 2020]
+
+#### Podcast Episodes
+* [Level-up Engineering Podcast 45: How to Engage Remote Employees: Tips to Lead Distributed Teams](https://codingsans.com/blog/how-to-engage-remote-employees) [August 2021]
 
 ### Buzzwords Explained
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos) by Google [Blog, July 2018]
