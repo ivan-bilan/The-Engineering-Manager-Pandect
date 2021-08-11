@@ -196,11 +196,10 @@ There are three levels of remote work:
     </details>
     
 
+#### Tips and Tricks for Better Remote Work
 
-### Tips and Tricks for Better Remote Work
-
-    <details><summary>Team building for remote teams</summary>
-    <p>
+   <details><summary>Team building for remote teams</summary>
+   <p>
         
     One of the toughest challenges of working remotely is that the team often does not feel cohesive after a long period of working remotely. This is best solved
     through a combination of applying the right remote-first tools and techniques (see examples above), with a good balance of team building sessions. When it comes 
@@ -215,8 +214,8 @@ There are three levels of remote work:
     In addition to that, you can also have these sessions in an online room on [gather.town](https://www.gather.town/). It's a great proximity-based online meeting     tool that allow you to control a physical 2D character in a gaming like fashion. It's especially great for bigger groups, as it's easy to have a quick chat    
     within a small group very seamlessly.
         
-    </p>
-    </details>
+   </p>
+   </details>
     
 
 #### General
