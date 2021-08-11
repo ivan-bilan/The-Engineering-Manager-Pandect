@@ -201,18 +201,19 @@ There are three levels of remote work:
    <details><summary>Team building for remote teams</summary>
    <p>
         
-    One of the toughest challenges of working remotely is that the team often does not feel cohesive after a long period of working remotely. This is best solved
-    through a combination of applying the right remote-first tools and techniques (see examples above), with a good balance of team building sessions. When it comes 
-    to team building, or just general watercooler chatter, it usually depends on the team. A good way to start is to try some of the following approaches:
-    1. Have 3-4 sessions per week of around 15-20 minute length for regular watercooler chats. Attendance is optional for everyone. Topics can be freestyled,
-    however, it's often good to setup a slack bot that does some topic suggestions for each session.
-    2. Have 1-2 longer weekly sessions, i.e. 1 hour long. Ideally, such sessions are prepared on a rotation basis. You can simply rotate, for example, through
-    playing some online team building games like [Codenames](https://codenames.game/), or [skribbl](https://skribbl.io/). Additionally, you can prepare more team
-    centric sessions. For example, you can prepare a quiz about the team on something like [Kahoot](https://kahoot.it/): find out some interesting facts about each
-    team member and let people guess who the specific facts or descriptions belong to. It's a fun way to get to know your colleauges better.
+   One of the toughest challenges of working remotely is that the team often does not feel cohesive after a long period of working remotely. This is best solved
+   through a combination of applying the right remote-first tools and techniques (see examples above), with a good balance of team building sessions. When it comes 
+   to team building, or just general watercooler chatter, it usually depends on the team. A good way to start is to try some of the following approaches:
+   1. Have 3-4 sessions per week of around 15-20 minute length for regular watercooler chats. Attendance is optional for everyone. Topics can be freestyled,
+   however, it's often good to setup a slack bot that does some topic suggestions for each session.
+   2. Have 1-2 longer weekly sessions, i.e. 1 hour long. Ideally, such sessions are prepared on a rotation basis. You can simply rotate, for example, through
+   playing some online team building games like [Codenames](https://codenames.game/), or [skribbl](https://skribbl.io/). Additionally, you can prepare more team
+   centric sessions. For example, you can prepare a quiz about the team on something like [Kahoot](https://kahoot.it/): find out some interesting facts about each
+   team member and let people guess who the specific facts or descriptions belong to. It's a fun way to get to know your colleauges better.
 
-    In addition to that, you can also have these sessions in an online room on [gather.town](https://www.gather.town/). It's a great proximity-based online meeting     tool that allow you to control a physical 2D character in a gaming like fashion. It's especially great for bigger groups, as it's easy to have a quick chat    
-    within a small group very seamlessly.
+   In addition to that, you can also have these sessions in an online room on [gather.town](https://www.gather.town/). It's a great proximity-based online meeting   
+   tool that allow you to control a physical 2D character in a gaming like fashion. It's especially great for bigger groups, as it's easy to have a quick chat    
+   within a small group very seamlessly.
         
    </p>
    </details>
