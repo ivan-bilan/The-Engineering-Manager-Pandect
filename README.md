@@ -207,17 +207,56 @@ There are three levels of remote work:
    1. Have 3-4 sessions per week of around 15-20 minute length for regular watercooler chats. Attendance is optional for everyone. Topics can be freestyled,
    however, it's often good to setup a slack bot that does some topic suggestions for each session.
    2. Have 1-2 longer weekly sessions, i.e. 1 hour long. Ideally, such sessions are prepared on a rotation basis. You can simply rotate, for example, through
-   playing some online team building games like [Codenames](https://codenames.game/), or [skribbl](https://skribbl.io/). Additionally, you can prepare more team
-   centric sessions. For example, you can prepare a quiz about the team on something like [Kahoot](https://kahoot.it/): find out some interesting facts about each
-   team member and let people guess who the specific facts or descriptions belong to. It's a fun way to get to know your colleauges better.
+   playing some online team building games like [Codenames](https://codenames.game/), [Garticphone](https://garticphone.com/), or [skribbl](https://skribbl.io/).
+       
+   Additionally, you can prepare more team centric sessions. For example, you can prepare a quiz about the team on something like [Kahoot](https://kahoot.it/): find 
+   out some interesting facts about each team member and let people guess who the specific facts or descriptions belong to. It's a fun way to get to know your 
+   colleauges better.
 
-   In addition to that, you can also have these sessions in an online room on [gather.town](https://www.gather.town/). It's a great proximity-based online meeting   
-   tool that allow you to control a physical 2D character in a gaming like fashion. It's especially great for bigger groups, as it's easy to have a quick chat    
-   within a small group very seamlessly.
+   In addition to that, you can also have these sessions in an online room on [gather.town](https://www.gather.town/). It's a great proximity-based 
+   online meeting tool that allow you to control a physical 2D character in a gaming like fashion. It's especially great for bigger groups, as it's easy to have a 
+   quick chat within a small group very seamlessly.
         
    </p>
    </details>
-    
+
+   <details><summary>Meetings</summary>
+   <p>
+   Your first instinct after going remote might be to compensate the lack of office interaction with a lot of meetings, however, it will only lead to meeting
+   fatigue within the team. A way to compesate for this is to bundle meetings into meeting days, i.e. only allow meetings (apart from standups) to be scheduled for 
+   2 or 3 days out of the week. The other 2-3 days don't allow for any team meetings (standups and short watercooler chats are fine). The meeting free days will
+   allow the team to work uninterrupted for a longer time and there will be no meeting anxiety either distracting them from technical work. The team members are
+   still free to schedule pair programming sessions during any week day.
+       
+   Of course, many meetings can be just an Email, so consider what truly requires a meeting. If you do need to call a meeting, make sure its well prepared not to
+   waste everyone's time. A well prepared meeting usually includes an agenda that is shared beforehand. If a decision needs to be taken in the meeting, it's better
+   to already prediscuss it with individual stakeholders that will join it.
+   
+   The key to successful remote meetings is also documentation. Make sure you keep a meeting log on Confluence, for example. The most crucial part of it should be 
+   the decision record. Make sure to write down all decisions taken during the meeting and list everyone who participated in taking that decision. People will
+   eventually forget that they either agreed to something or commited to do something, and having their commitment written down in the decision record will save
+   you a lot of time in the future.
+        
+   </p>
+   </details>
+
+   <details><summary>Transparency</summary>
+   <p>
+   
+   Working remote may hide work and slow down knowledge sharing if it's not done correctly. A great idea is to have regular demo sessions to show what the team has 
+   been working on (internally to team mates and to the outside).
+       
+   Some managers may get an idea to have longer standups, additional end-of-the-day check-ins etc. Usually, this add more stress to the team, and contributes to the 
+   meeting fatigue. An interesting approach to try here is to have the regular standup sessions as usual, but 15-20 minutes before the session, the team can write 
+   down their update in a dedicated slack channel. This usually helps them to gather their thoughts and think about what they want to say in the standup. This way, 
+   the standups can be kept shorter, since everyone already has formulated their update in a written form and simply has to reiterate it to the team. 
+   Another benefit of this, is that the other team members can ask follow up questions or propose solutions to problems right there on slack.
+       
+   This also helps to have a written log of what the team is working on that can be then read by someone who was sick or on vacation, they will catch up very 
+   quickly on the team progress. It also helps you as a manager in case you need to write something like progress reports to other levels of management.
+        
+   </p>
+   </details>
 
 #### General
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - curated list of awesome remote jobs and resources. Inspired by [GitHub, 20700 stars]
