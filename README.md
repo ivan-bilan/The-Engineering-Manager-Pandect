@@ -90,10 +90,18 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Level-up Engineering Podcast](https://codingsans.com/engineering-management-podcast) - key insights from fellow engineering managers and tech leaders [Years: 2020 - now, Status: active]
 * [Authority Issues](https://authorityissu.es) - podcast about leadership and engineering management [Years: 2019 - now, Status: active]
 
+### Engineering Podcasts
+* [Add Dot](https://shows.acast.com/add-dot/episodes) - get deep insights on modern software architecture and development approaches while facing sociotechnical challenges [Years: 2021 - now, Status: active]
+* [StaffEng](https://podcast.staffeng.com) - conversations with software engineers who have progressed beyond the career level, into Staff levels and beyond [Years: 2021 - now, Status: active]
+
 ### Leadership Podcasts
 * [Radical Candor](https://www.radicalcandor.com/candor-podcast/) - show about how to kick ass at work without losing your humanity [Years: 2017 - now, Status: active]
 * [Masters of Scale](https://mastersofscale.com) - podcast hosted by Reid Hoffman, co-founder of LinkedIn [Years: 2017 - now, Status: active]
 * [WorkLife](https://www.adamgrant.net/podcast/) - podcast about work by Adam Grant [Years: 2018 - now, Status: active]
+
+### Productivity Podcasts
+* [Deep Questions](https://www.calnewport.com/podcast/) - podcast by the author of "Deep Work" [Years: 2021 - now, Status: active]
+* [Beyond the To-Do List](https://beyondthetodolist.com) - productivity experts share how they implement practical productivity strategies in their personal and professional lives [Years: 2012 - now, Status: active]
 
 ### Non-English Podcasts
 #### German
