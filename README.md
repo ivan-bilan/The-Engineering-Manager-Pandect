@@ -67,7 +67,9 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
     </details>
 * [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) [Blog, Novemeber 2019]
 * [You Can Be a Great Leader and Also Have a Life](https://hbr.org/2018/12/you-can-be-a-great-leader-and-also-have-a-life?utm_medium=social&utm_campaign=hbr&utm_source=linkedin&tpcc=orgsocial_edit) [Blog, December 2018]
-    
+
+Find a catalogue of engineering blogs at [Engineering Blogs Awesome List](https://github.com/kilimchoi/engineering-blogs)
+
 ### Books
 * [The Manager's Path](https://www.amazon.de/-/en/Camille-Fournier/dp/1491973897) [Published in 2017]
 * [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) [Published in 2013]
