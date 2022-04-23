@@ -91,6 +91,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Effective Engineering Manager](https://podcasts.apple.com/us/podcast/effective-engineering-manager/id1535585856) - proven solutions and best practices to software engineering managers [Years: 2021 - now, Status: active]
 * [Level-up Engineering Podcast](https://codingsans.com/engineering-management-podcast) - key insights from fellow engineering managers and tech leaders [Years: 2020 - now, Status: active]
 * [Authority Issues](https://authorityissu.es) - podcast about leadership and engineering management [Years: 2019 - now, Status: active]
+* [Programming Leadership](https://programmingleadership.podbean.com) - A podcast to help great coders become skilled leaders [Years: 2019 - now, Status: active]
 
 ### Engineering Podcasts
 * [Add Dot](https://shows.acast.com/add-dot/episodes) - get deep insights on modern software architecture and development approaches while facing sociotechnical challenges [Years: 2021 - now, Status: active]
@@ -141,11 +142,13 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 #### Retro Ideas
 * [FunRetrospectives](https://www.funretrospectives.com/) - activities and ideas for making agile retrospectives more engaging
+* [Miroverse](https://miro.com/miroverse/) - Miro templates for retrospective and a lot more
 
 #### Retro Tools
 * [RetroTool](https://retrotool.io/)
 * [EasyRetro](https://easyretro.io/)
 * [Parabol](https://www.parabol.co/)
+* [Teamretro](https://www.teamretro.com)
 
 ![Measuring Success](./Resources/Images/measuring.png)
 -----
@@ -163,6 +166,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 #### OKR tools
 * [Koan](https://www.koan.co/)
 * [Workpath](https://www.workpath.com/)
+* [GTMHub](https://gtmhub.com)
 
 
 ![Other](./Resources/Images/other_topics.png)
