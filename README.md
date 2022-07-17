@@ -92,6 +92,8 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Level-up Engineering Podcast](https://codingsans.com/engineering-management-podcast) - key insights from fellow engineering managers and tech leaders [Years: 2020 - now, Status: active]
 * [Authority Issues](https://authorityissu.es) - podcast about leadership and engineering management [Years: 2019 - now, Status: active]
 * [Programming Leadership](https://programmingleadership.podbean.com) - A podcast to help great coders become skilled leaders [Years: 2019 - now, Status: active]
+* [Managers Club, Interviews and Resources for Engineering Managers](https://podcasts.apple.com/us/podcast/managers-club-interviews-and-resources-for/id1465515449) - In-depth conversations about engineering management with lessons and tips to make you a better leader and improve your career. [Years: 2019 - now, Status: active]
+
 
 ### Engineering Podcasts
 * [Add Dot](https://shows.acast.com/add-dot/episodes) - get deep insights on modern software architecture and development approaches while facing sociotechnical challenges [Years: 2021 - now, Status: active]
@@ -116,7 +118,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 -----
 * [LeadDev](https://www.youtube.com/c/LeadDev) - online community that develops thought-leading content [Youtube, 35k Subscribers]
 * [Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g) - Continuous Delivery Pipelines and Processes [Youtube, 57k Subscribers]
-
+* [ManagersClub](https://www.youtube.com/channel/UCOFFE-EKhQcIbwC9_46OsOg) - In-depth conversations about engineering management with lessons and tips to make you a better leader and improve your career. [Youtube, 176 Subscribers]
 
 ![Giving and Receiving Feedback](./Resources/Images/feedback.png)
 -----
