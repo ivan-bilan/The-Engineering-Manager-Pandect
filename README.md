@@ -81,10 +81,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
     - Mistake 4: You have to have everything together all the time. You’re the manager, so if someone is going to show vulnerability first, it’s easiest on team dynamics if it’s you.
     </p>
     </details>
-* 📙 [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) [Blog, Novemeber 2019]
+* 📙 [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) [Blog, November 2019]
 * 📙 [You Can Be a Great Leader and Also Have a Life](https://hbr.org/2018/12/you-can-be-a-great-leader-and-also-have-a-life?utm_medium=social&utm_campaign=hbr&utm_source=linkedin&tpcc=orgsocial_edit) [Blog, December 2018]
+* 📙 [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/) [Blog, May 2021]
 
-* ⭐ind a catalogue of engineering blogs at [Engineering Blogs Awesome List](https://github.com/kilimchoi/engineering-blogs)
+Find a catalogue of engineering blogs at [Engineering Blogs Awesome List](https://github.com/kilimchoi/engineering-blogs)
 
 ### Books
 * 📙 [The Manager's Path](https://www.amazon.de/-/en/Camille-Fournier/dp/1491973897) [Published in 2017]
@@ -151,6 +152,9 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 ### Tracking Performance and Impact
 * 📙 [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
+
+### Career Conversations
+* ⭐ [engineeringladders](https://github.com/jorgef/engineeringladders) - career ladder resources for EMs [GitHub, 5600 stars]
 
 ### Retrospectives
 #### Reading Material
