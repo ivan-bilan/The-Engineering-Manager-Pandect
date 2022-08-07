@@ -122,7 +122,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 -----
 ### One-on-Ones
 #### Topics to Talk About
-* [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - list of 1-on-1 questions compiled from a variety to sources [GitHub, 8500 stars]
+* [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - list of 1-on-1 questions compiled from a variety to sources [GitHub, 9009 stars]
 #### Other Activities
 * [16 Personalities Personality Test](https://www.16personalities.com/) - the results include sections on "Career Path" and "Working Habits". Use it as a way to start a discussion instead of believing the actual results.
 
@@ -154,7 +154,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 -----
 ### OKRs
 #### General
-* [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) [GitHub, 1125 stars]
+* [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) [GitHub, 1344 stars]
 
 #### Reading Resources
 * [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
@@ -180,7 +180,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * [Technical Writing Courses](https://developers.google.com/tech-writing) - Technical Writing Courses and Resources from Google 
 
 ### Incident Management
-* [Wheel of Misfortune](https://github.com/dastergon/wheel-of-misfortune) - a game that aims to build confidence in on-call engineers via simulated outage scenarios [GitHub, 67 stars]
+* [Wheel of Misfortune](https://github.com/dastergon/wheel-of-misfortune) - a game that aims to build confidence in on-call engineers via simulated outage scenarios [GitHub, 95 stars]
 
 ### Remote Work
 Remote work, especially after the pandemic, is not easy to get right and can make or break a good team.
@@ -273,7 +273,7 @@ There are three levels of remote work:
    </details>
 
 #### General
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - curated list of awesome remote jobs and resources. Inspired by [GitHub, 20700 stars]
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - curated list of awesome remote jobs and resources. Inspired by [GitHub, 22792 stars]
 
 #### Reading Resources
 * [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - all-remote tips and tricks for remote teams
@@ -300,7 +300,7 @@ There are three levels of remote work:
 Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/agile-glossary/).
 
 ### Software Architecture
-* [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) - comprehensive list of books on Software Architecture [GitHub, 4600 stars]
+* [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) - comprehensive list of books on Software Architecture [GitHub, 6726 stars]
 
 ### Presenting
 #### General
@@ -310,7 +310,7 @@ Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/ag
 * [Do Your Slides At The Last Minute: 8 Steps To Writing Your Talk](https://emptysqua.re/blog/how-i-write-a-conference-talk/) [Blog, February 2016]
 
 #### Presentation Tools
-* [SliDev](https://github.com/slidevjs/slidev) - Presentation slides tool for developers ([Tutorial](https://www.youtube.com/watch?v=eW7v-2ZKZOU&t=1s)) [GitHub, 15000 stars] 
+* [SliDev](https://github.com/slidevjs/slidev) - Presentation slides tool for developers ([Tutorial](https://www.youtube.com/watch?v=eW7v-2ZKZOU&t=1s)) [GitHub, 22017 stars] 
 
 #### Presentation Resources (Mostly Free)
 ##### Icons
@@ -328,8 +328,8 @@ Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/ag
 * [Autonomous Team](http://scrumbook.org/product-organization-pattern-language/development-team/autonomous-team.html) - Scrumbook.org
 
 ### Other Resource Compilations
-* [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 535 stars]
-* [engineer-manager](https://github.com/ryanburgess/engineer-manager) - list of engineering manager resource links [GitHub, 6300 stars]
+* [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - list for developers to transition to an engineering management role [GitHub, 1066 stars]
+* [engineer-manager](https://github.com/ryanburgess/engineer-manager) - list of engineering manager resource links [GitHub, 7776 stars]
 
 -----
 
