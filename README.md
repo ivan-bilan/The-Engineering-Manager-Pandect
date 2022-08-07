@@ -31,11 +31,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
     </p>
     </details>
     
-* [14 Leadership Principles - Amazon](https://www.amazon.jobs/en/principles)
+* [16 Leadership Principles - Amazon](https://www.amazon.jobs/en/principles)
     <details><summary>Main Highlights</summary>
     <p>
     
-    14 Principals:
+    16 Principals:
     - Customer Obsession
     - Ownership
     - Invent and Simplify
