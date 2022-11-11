@@ -19,6 +19,19 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > 
 > 🎙️ - a resource you can listen to
 
+### <p align="center"><b>Table of Contents</b></p>
+
+| 📇 Main Section  | 🗃️ Sub-sections Sample |
+| ------------- | ------------- |
+| [Essential Reading](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#)  | [Blogs](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#blogs), [Books](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#books), [Presentations](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#presentations) |
+| [Podcasts](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-1)  | [Engineering Management](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#engineering-management), [Leadership Podcasts](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#leadership-podcasts) |
+| [Newsletters](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-2)  | - |
+| [YouTube Channels](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-3)  | - |
+| [Giving Feedback](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-4)  | [One-on-Ones](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#one-on-ones), [Retrospectives](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#retrospectives) |
+| [Measuring Success](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-5)  | - |
+| [Other Topics](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-6)  | [Remote Work](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#remote-work), [Presenting](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#presenting)  |
+
+
 
 ![Essential-Reading](./Resources/Images/reading_section.png)
 -----
@@ -104,6 +117,9 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 ![Podcasts](./Resources/Images/podcasts.png)
 -----
+
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#table-of-contents)
+
 ### Engineering Management
 * 🎙️ [Effective Engineering Manager](https://podcasts.apple.com/us/podcast/effective-engineering-manager/id1535585856) - proven solutions and best practices to software engineering managers [Years: 2021 - now, Status: active]
 * 🎙️ [Level-up Engineering Podcast](https://codingsans.com/engineering-management-podcast) - key insights from fellow engineering managers and tech leaders [Years: 2020 - now, Status: active]
@@ -141,6 +157,8 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 ![Giving and Receiving Feedback](./Resources/Images/feedback.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#table-of-contents)
+
 ### One-on-Ones
 #### Topics to Talk About
 * ⭐ [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - list of 1-on-1 questions compiled from a variety to sources [GitHub, 9009 stars]
@@ -176,7 +194,9 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 
 ![Measuring Success](./Resources/Images/measuring.png)
 -----
-### OKRs
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#table-of-contents)
+
+### Objectives, Key Results (OKRs)
 #### General
 * ⭐ [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) [GitHub, 1344 stars]
 
@@ -192,9 +212,14 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * 🔱 [Workpath](https://www.workpath.com/)
 * 🔱 [GTMHub](https://gtmhub.com)
 
+### Narrative, Commitments, Tasks (NCTs)
+#### General
+* 📙 [Set Better Goals With NCTs, Not OKRs](https://www.reforge.com/blog/set-better-goals-with-ncts-not-okrs)
+
 
 ![Other](./Resources/Images/other_topics.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#table-of-contents)
 
 ### Becoming a Manager
 * [Google’s new manager training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
