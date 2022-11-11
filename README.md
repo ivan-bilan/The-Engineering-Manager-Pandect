@@ -28,9 +28,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 | [Newsletters](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-2)  | - |
 | [YouTube Channels](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-3)  | - |
 | [Giving Feedback](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-4)  | [One-on-Ones](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#one-on-ones), [Retrospectives](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#retrospectives) |
-| [Measuring Success](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-5)  | - |
+| [Measuring Success](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-5)  | [OKRs](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#objectives-key-results-okrs), [NCTs](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#narrative-commitments-tasks-ncts) |
 | [Other Topics](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#-6)  | [Remote Work](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#remote-work), [Presenting](https://github.com/ivan-bilan/The-Engineering-Manager-Pandect#presenting)  |
-
 
 
 ![Essential-Reading](./Resources/Images/reading_section.png)
