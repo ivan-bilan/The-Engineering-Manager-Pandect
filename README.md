@@ -128,6 +128,10 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * 🎙️ [Der Agile Wasserfall](https://podcasts.apple.com/us/podcast/der-agile-wasserfall/id1541113934) - Softwareentwicklung und alles zum Thema Agile [Years: 2020 - now, Status: active]
 * 🎙️ [The Dark Leadership Podcast](https://schulenburg-consulting.de/dark-leadership) - eine Sammlung von Handlungsempfehlungen zur Abwehr von Dark Leadership [Years: 2021 - now, Status: active]
 
+![Newsletters](./Resources/Images/pandect_scroll.png)
+-----
+* 📙 [Pragmatic Engineer Newsletter](https://newsletter.pragmaticengineer.com) [Free & Paid Versions] by Gergely Orosz
+
 
 ![Youtube-Channels](./Resources/Images/youtube_channels.png)
 -----
@@ -367,6 +371,7 @@ Find more at the Agile Glossary [here](https://www.agilealliance.org/agile101/ag
 * [papyrus](https://thenounproject.com/iconmark/collection/greek-mythology/?i=3515982) by IconMark from the [Noun Project](https://thenounproject.com)
 * [Laurel Wreath](https://thenounproject.com/term/laurel-wreath/275972/) by Christopher T. Howlett from the [Noun Project](https://thenounproject.com)
 * [scales](https://thenounproject.com/search/?q=scale&i=1489322) by Dmitry Mirolyubov from the [Noun Project](https://thenounproject.com)
+* [Scroll](https://thenounproject.com/icon/scroll-3395161/) by Nhor from the [Noun Project](https://thenounproject.com)
 
 #### Fonts
 * [Dalek Font](https://www.dafont.com/dalek.font) 
