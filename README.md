@@ -148,6 +148,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 ![Newsletters](./Resources/Images/pandect_scroll.png)
 -----
 * 📙 [Pragmatic Engineer Newsletter](https://newsletter.pragmaticengineer.com) [Free & Paid Versions] by Gergely Orosz
+* 📙 [CTO Insights](https://insights.toshotrajanov.com/) [Free] by Tosho Trajanov
 
 
 ![Youtube-Channels](./Resources/Images/youtube_channels.png)
