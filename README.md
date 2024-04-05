@@ -208,6 +208,7 @@ Find more Engineering Management books at [The Leadership Library for Engineers]
 * 📙 [The OKR Cycle: 3 Steps for OKR Success](https://felipecastro.com/en/okr-cycle/)
 * 📙 [Continuously improve on using the OKR method](https://www.thoughtworks.com/insights/blog/objectives-and-key-results-continuously-improve-using-okr-method)
 * 📙 [Why Weekly Goal Reviews & Check-ins Are the Heartbeat of Great Teams](https://www.koan.co/blog/the-heartbeat-of-great-teams)
+* 📙 [How the Goal-Setting System of OKRs Helps Organizations Thrive](https://adevait.com/leadership/goal-setting-system-objectives-key-results-okrs)
 
 #### OKR tools
 * 🔱 [Koan](https://www.koan.co/)
